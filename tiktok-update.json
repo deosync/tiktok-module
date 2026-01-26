@@ -1,6 +1,6 @@
 {
-  "version": "v43.1.1 (patches 5.47.0)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/deosync/tiktok-module/releases/download/2/tiktok-revanced-magisk-v43.1.1-all.zip",
+  "version": "v43.6.3 (patches 5.48.0)",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/deosync/tiktok-module/releases/download/3/tiktok-revanced-magisk-v43.6.3-all.zip",
   "changelog": "https://raw.githubusercontent.com/deosync/tiktok-module/update/build.md"
 }
